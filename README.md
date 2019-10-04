@@ -30,7 +30,9 @@ Please note that extracted data's file names follow this naming scheme : <b>{ori
 
 etc..
 
+
 ## Examples :
+
 
 #### Bulk extracting a small folder repository.
 
@@ -40,3 +42,7 @@ etc..
 
 ![](pictures/folder.png)
 
+#### OLE1 data.
+
+![](pictures/ole_shoot.png)
+![](pictures/ole_shoot1.png)
