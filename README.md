@@ -20,9 +20,12 @@ The <b>-l</b> switch enables error logging. All encountered errors while extract
 
 Please note that extracted data's file names follow this naming scheme : <b>original_file_name ++ _extracted data_type</b> where :
 
-<b>"_OLE"</b> : Design OLE1 native data.
-<b>"_OVL"</b> : RTF Overlay data.
-<b>"_STG"</b> : RTF Storage data.
+<b>_OLE</b> : Design OLE1 native data.
+
+<b>_OVL</b> : RTF Overlay data.
+
+<b>_STG</b> : RTF Storage data.
+
 
 etc..
 
