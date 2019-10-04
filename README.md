@@ -2,6 +2,7 @@
 
 Public tool for bulk extracting various embedded object types from a given RTF file or a whole folder repository.
 
+
 ## Presentation :
 
 I've decided to release this tool to the public in order to assist fellow Malware analysts & Antivirus engineers at their daily tasks while dealing whith RTF objects. As you perfectly know, manual extraction of <b>RTF embedded data</b> is such a painful process. As for the other available public alternatives, without taking anything away from the excellent work done by their respective authors, I honestly think that some are simply very outdated and thus unable to cope with obfuscated data and the rest are either limited by a bad design or by some kind of hacky implementations. I don't claim that my tool is perfect either, its just something different, its <b>supposed to succeed</b> where most of the other available public alternatives fail.
@@ -31,6 +32,6 @@ etc..
 
 ## Examples :
 
-
+![](pictures/rtf_decomp_result.png)
 
 
