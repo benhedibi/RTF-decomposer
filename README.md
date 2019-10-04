@@ -4,4 +4,4 @@ Public tool for bulk extracting various embedded object types from a given RTF f
 
 ## Presentation :
 
-I've decided to release this tool to the public in order to assist fellow Malware analysts & Antivirus engineers at their daily tasks while dealing whith RTF objects. As you perfectly know : manual extraction of RTF embedded data is such a painful process. As for the other public alternatives like <a href="https://github.com/decalage2/oletools/blob/master/oletools/rtfobj.py"<b>rtfobj</b></a>
+I've decided to release this tool to the public in order to assist fellow Malware analysts & Antivirus engineers at their daily tasks while dealing whith RTF objects. As you perfectly know : manual extraction of RTF embedded data is such a painful process. As for the other public alternatives like <a href="https://github.com/decalage2/oletools/blob/master/oletools/rtfobj.py/">rtfobj</a>
