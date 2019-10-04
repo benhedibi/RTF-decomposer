@@ -32,6 +32,11 @@ etc..
 
 ## Examples :
 
+### Bulk extracting a small folder repository.
+
 ![](pictures/rtf_decomp_result.png)
 
+### Extracted data.
+
+![](pictures/folder.png)
 
