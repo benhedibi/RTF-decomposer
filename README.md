@@ -31,18 +31,34 @@ Please note that extracted data's file names follow this naming scheme : <b>{ori
 etc..
 
 
+
 ## Examples :
 
 
-#### Bulk extracting a small folder repository.
+
+
+#### Bulk extracting a small folder repository
 
 ![](pictures/rtf_decomp_result.png)
 
-#### Extracted data.
+
+#### Extracted data
 
 ![](pictures/folder.png)
 
-#### OLE1 data.
+
+#### OLE1 data
 
 ![](pictures/ole_shoot.png)
+
+#### OLE1 data
+
 ![](pictures/ole_shoot1.png)
+
+#### RTF Storage data
+
+![](pictures/enc_storage.png)
+
+Clearly visible that the data is simply encrypted with a simple <b>xor algorithm</x>, the encryption key is a crystal clear <b>0xBF</b>
+
+![](pictures/dec_storage.png)
