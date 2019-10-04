@@ -18,14 +18,11 @@ Command line options are pretty straightforward. If you omit to specify a <b>des
 
 The <b>-l</b> switch enables error logging. All encountered errors while extracting <b>RTF</b> embedded data will be then logged. In case of bugs or data extraction's error please feel free to contact me so I can release a fix.
 
-Please note that extracted data's file names follow this naming scheme : <b>original_file + _name_extracted data_type</b> where :
+Please note that extracted data's file names follow this naming scheme : <b>original_file_name ++ _extracted data_type</b> where :
 
 <b>"_OLE"</b> : Design OLE1 native data.
-
 <b>"_OVL"</b> : RTF Overlay data.
-
 <b>"_STG"</b> : RTF Storage data.
-
 
 etc..
 
