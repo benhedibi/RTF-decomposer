@@ -71,7 +71,7 @@ While the very excellent <a href="https://github.com/decalage2/oletools/blob/mas
 
 ![](pictures/issue_251.png)
 ##### Extracted data
-![](pictures/folder.png)
+![](pictures/251_folder.png)
 ##### Truncated OLE data
 ![](pictures/ole_251.png)
 ##### WMF Embedded picture
