@@ -35,8 +35,6 @@ etc..
 ## Examples :
 
 
-
-
 #### Bulk extracting a small folder repository
 
 ![](pictures/rtf_decomp_result.png)
@@ -59,6 +57,14 @@ etc..
 
 ![](pictures/enc_storage.png)
 
-Clearly visible that the data is simply encrypted with a simple <b>xor algorithm</x>, the encryption key is a crystal clear <b>0xBF</b>
+Clearly visible that the data is simply encrypted with a simple <b>xor algorithm</b>, the encryption key is a crystal clear <b>0xBF</b>
 
 ![](pictures/dec_storage.png)
+
+
+## Closing notes :
+
+RTF Decomposer doesn't detect exploits or decrypt data ( if you want such exciting features then join me at Tornado Security Labs LOL). Its just a simple tool meant for <b>RTF</b> embedded data extraction where <b>high speed</b> and <a>accuracy</b> are of paramount importance. 
+
+<a href="https://www.youtube.com/watch?v=yoYZf-lBF_U">Cause ain't no such things as halfway crooks 
+Scared to death, scared to look, they shook</a>
