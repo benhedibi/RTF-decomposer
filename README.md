@@ -61,6 +61,11 @@ Clearly visible that the data is simply encrypted with a simple <b>xor algorithm
 
 ![](pictures/dec_storage.png)
 
+## Side notes : 
+
+While the very excellent <a href="https://github.com/decalage2/oletools/blob/master/oletools/rtfobj.py">rtfobj</a> simply fails to extract any valuable embedded data from the hand crafted <a>issue_251.rtf</b>
+
+
 
 ## Closing notes :
 
