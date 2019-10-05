@@ -81,7 +81,7 @@ While the very excellent <a href="https://github.com/decalage2/oletools/blob/mas
 
 ## Closing notes :
 
-<b>RTF Decomposer</b> doesn't detect <b>exploits</b> or <b>decrypts</b> data ( if you want such exciting features then join me at <b>Tornado Security Labs</b> LOLLLL ). Its just a simple tool meant for <b>RTF</b> embedded data extraction where <b>high speed</b> and <b>accuracy</b> are of paramount importance.
+<b>RTF Decomposer</b> doesn't detect <b>exploits</b> nor <b>decrypts</b> data ( if you want such exciting features then join me at <b>Tornado Security Labs</b> LOLLLL ). Its just a simple tool meant for <b>RTF</b> embedded data extraction where <b>high speed</b> and <b>accuracy</b> are of paramount importance.
 
 The 32bit version of <b>RTF Decomposer</b> may trigger a bogus signature within Kaspersky Antivirus database. Its neither a <b>packed</b> executable nor a <b>katusha virus</b>, its just program written in pure <b>Ansi C</b> :))) 
 
