@@ -85,5 +85,4 @@ While the very excellent <a href="https://github.com/decalage2/oletools/blob/mas
 
 The 32bit version of <b>RTF Decomposer</b> may trigger a bogus signature within Kaspersky Antivirus database. Its neither a <b>packed</b> executable nor a <b>katusha virus</b>, its just program written in pure <b>Ansi C</b> :))) 
 
-<a href="https://www.youtube.com/watch?v=yoYZf-lBF_U">Cause ain't no such things as halfway crooks 
-Scared to death, scared to look, they shook</a>
+<a href="https://www.youtube.com/watch?v=yoYZf-lBF_U">Cause ain't no such things as halfway crooks, scared to death, scared to look, they shook !!</a>
