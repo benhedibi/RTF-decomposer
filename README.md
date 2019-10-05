@@ -5,7 +5,7 @@ Tool for extracting various embedded object types from a given RTF file or a who
 
 ## Presentation :
 
-I decided to release this tool to the public in order to assist fellow <b>Malware Analysts</b> & <b>Antivirus Engineers</b> at their daily tasks while dealing with <b>obfuscated RTF objects/<b>. Like you perfectly know : manual extraction of <b>embedded RTF data</b> is such a painful process. As for the other available public alternatives, without taking anything away from the excellent work done by their respective authors, I honestly think that some are simply very outdated and thus unable to cope with obfuscated data and the most current ones are somehow limited by either a bad design or by some kind of hacky implementations. I don't claim that my tool is perfect either, its just supposed to succeed where most of the other available public alternatives fail.
+I decided to release this tool to the public in order to assist fellow <b>Malware Analysts</b> & <b>Antivirus Engineers</b> at their daily tasks while dealing with <b>obfuscated RTF objects</b>. Like you perfectly know : manual extraction of <b>embedded RTF data</b> is such a painful process. As for the other available public alternatives, without taking anything away from the excellent work done by their respective authors, I honestly think that some are simply very outdated and thus unable to cope with obfuscated data and the most current ones are somehow limited by either a bad design or by some kind of hacky implementations. I don't claim that my tool is perfect either, its just supposed to succeed where most of the other available public alternatives fail.
 
 I am really sorry but <b>RTF Decomposer</b> is not open source because the used code is just an extremely <b>stripped down</b> version taken from <b>Tornado Antivirus</b> unpacking framework's code base.
 
@@ -85,4 +85,4 @@ While the very excellent <a href="https://github.com/decalage2/oletools/blob/mas
 
 The 32bit version of <b>RTF Decomposer</b> may trigger a bogus signature within Kaspersky Antivirus database. Its neither a <b>packed</b> executable nor a <b>katusha virus</b>, its just program written in pure <b>Ansi C</b> :))) 
 
-<a href="https://www.youtube.com/watch?v=yoYZf-lBF_U">Cause ain't no such things as halfway crooks, scared to death, scared to look, they shook !!</a>
+And I quote this Mahatma Gandhi's famous punch line : <a href="https://www.youtube.com/watch?v=yoYZf-lBF_U">Cause ain't no such things as halfway crooks, scared to death, scared to look, they shook !!</a>
