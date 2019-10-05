@@ -63,13 +63,25 @@ Clearly visible that the data is simply encrypted with a simple <b>xor algorithm
 
 ## Side notes : 
 
-While the very excellent <a href="https://github.com/decalage2/oletools/blob/master/oletools/rtfobj.py">rtfobj</a> simply fails to extract any valuable embedded data from the hand crafted <a>issue_251.rtf</b>
+While the very excellent <a href="https://github.com/decalage2/oletools/blob/master/oletools/rtfobj.py">rtfobj</a> simply fails to extract any valuable embedded data from the hand crafted <b>issue_251.rtf</b> file.
 
+![](pictures/notepad.png)
 
+<b>RTF Decomposer</b> on the other hand have no problem extracting both the truncated <b>OLE</b> data and the embedded <b>picture</b>.
+
+![](pictures/issue_251.png)
+
+![](pictures/issue_251.png)
+
+##### Truncated OLE data
+![](pictures/ole_251.png)
+##### WMF Embedded picture
+![](pictures/251_pic.png)
+![](pictures/251_pic_dump.png)
 
 ## Closing notes :
 
-RTF Decomposer doesn't detect exploits or decrypt data ( if you want such exciting features then join me at Tornado Security Labs LOL). Its just a simple tool meant for <b>RTF</b> embedded data extraction where <b>high speed</b> and <a>accuracy</b> are of paramount importance. 
+<b>RTF Decomposer</b> doesn't detect <b>exploits</b> or <b>decrypts</b> data ( if you want such exciting features then join me at <b>Tornado Security Labs</b> LOLLLL ). Its just a simple tool meant for <b>RTF</b> embedded data extraction where <b>high speed</b> and <a>accuracy</b> are of paramount importance. 
 
 <a href="https://www.youtube.com/watch?v=yoYZf-lBF_U">Cause ain't no such things as halfway crooks 
 Scared to death, scared to look, they shook</a>
