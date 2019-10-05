@@ -1,11 +1,11 @@
 # RTF decomposer
 
-Public tool for bulk extracting various embedded object types from a given RTF file or a whole folder repository.
+Tool for extracting various embedded object types from a given RTF file or a whole folder repository.
 
 
 ## Presentation :
 
-I've decided to release this tool to the public in order to assist fellow Malware analysts & Antivirus engineers at their daily tasks while dealing with RTF objects. As you perfectly know, manual extraction of <b>RTF embedded data</b> is such a painful process. As for the other available public alternatives, without taking anything away from the excellent work done by their respective authors, I honestly think that some are simply very outdated and thus unable to cope with obfuscated data and the rest are either limited by a bad design or by some kind of hacky implementations. I don't claim that my tool is perfect either, its just something different, its <b>supposed to succeed</b> where most of the other available public alternatives fail.
+I decided to release this tool to the public in order to assist fellow Malware analysts & Antivirus engineers at their daily tasks while dealing with RTF objects. As you perfectly know, manual extraction of <b>RTF embedded data</b> is such a painful process. As for the other available public alternatives, without taking anything away from the excellent work done by their respective authors, I honestly think that some are simply very outdated and thus unable to cope with obfuscated data and the rest are either limited by a bad design or by some kind of hacky implementations. I don't claim that my tool is perfect either, its just something different, its <b>supposed to succeed</b> where most of the other available public alternatives fail.
 
 I am really sorry but <b>RTF Decomposer</b> is not open source because the used code is just an extremely <b>stripped down</b> version taken from <b>Tornado Antivirus</b> unpacking framework's code base.
 
@@ -70,18 +70,20 @@ While the very excellent <a href="https://github.com/decalage2/oletools/blob/mas
 <b>RTF Decomposer</b> on the other hand have no problem extracting both the truncated <b>OLE</b> data and the embedded <b>picture</b>.
 
 ![](pictures/issue_251.png)
-
-![](pictures/issue_251.png)
-
+##### Extracted data
+![](pictures/folder.png)
 ##### Truncated OLE data
 ![](pictures/ole_251.png)
 ##### WMF Embedded picture
 ![](pictures/251_pic.png)
+##### 222zzzzzz hehe
 ![](pictures/251_pic_dump.png)
 
 ## Closing notes :
 
-<b>RTF Decomposer</b> doesn't detect <b>exploits</b> or <b>decrypts</b> data ( if you want such exciting features then join me at <b>Tornado Security Labs</b> LOLLLL ). Its just a simple tool meant for <b>RTF</b> embedded data extraction where <b>high speed</b> and <a>accuracy</b> are of paramount importance. 
+<b>RTF Decomposer</b> doesn't detect <b>exploits</b> or <b>decrypts</b> data ( if you want such exciting features then join me at <b>Tornado Security Labs</b> LOLLLL ). Its just a simple tool meant for <b>RTF</b> embedded data extraction where <b>high speed</b> and <b>accuracy</b> are of paramount importance.
+
+The 32bit version of <b>RTF Decomposer</b> may trigger a bogus signature within Kaspersky Antivirus database. Its neither a <b>packed</b> executable nor a <b>katusha virus</b>, its just program written in pure <b>Ansi C</b> :))) 
 
 <a href="https://www.youtube.com/watch?v=yoYZf-lBF_U">Cause ain't no such things as halfway crooks 
 Scared to death, scared to look, they shook</a>
