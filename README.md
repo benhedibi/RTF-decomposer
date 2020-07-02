@@ -7,8 +7,6 @@ Tool for extracting various embedded object types from a given RTF file or a who
 
 I decided to release this tool to the public in order to assist fellow <b>Malware Analysts</b> & <b>Antivirus Engineers</b> at their daily tasks while dealing with <b>obfuscated RTF objects</b>. Like you perfectly know : manual extraction of <b>embedded RTF data</b> is such a painful process. As for the other available public alternatives, without taking anything away from the excellent work done by their respective authors, I honestly think that some are simply very outdated and thus unable to cope with obfuscated data and the most current ones are somehow limited by either a bad design or by some kind of hacky implementations. I don't claim that my tool is perfect either, its just supposed to succeed where most of the other available public alternatives fail.
 
-I am really sorry but <b>RTF Decomposer</b> is not open source because the used code is just an extremely <b>stripped down</b> version taken from <b>Tornado Antivirus</b> unpacking framework's code base.
-
 
 ## Usage :
 
