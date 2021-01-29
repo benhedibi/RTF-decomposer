@@ -7,8 +7,6 @@
 #include "common.h"
 #include <shellapi.h>
 
-// Av!ra1979
-
 
 typedef struct {
 	             unsigned_int argc;
